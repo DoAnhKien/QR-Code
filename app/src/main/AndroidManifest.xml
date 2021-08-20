@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QRCode">
         <activity
+            android:name=".BiometricAuthenticationActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

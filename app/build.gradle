@@ -44,4 +44,7 @@ dependencies {
 
     // QR Code
     implementation 'com.budiyev.android:code-scanner:2.1.0'
+
+    // Biometric
+    implementation 'androidx.biometric:biometric:1.1.0'
 }
